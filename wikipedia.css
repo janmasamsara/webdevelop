@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    border-bottom:1px solid gray;
+    padding:10px;
+}
+nav{
+    border-bottom:1px solid gray;
+    padding:10px;
+}
+nav span{
+    margin-right:20px;
+}
+nav span:first-child{
+    border-bottom:2px solid black;
+}
+.image-content{
+    margin:30px;
+    float:right;
+}
+.content{
+    padding:10px
+}
+.content p{
+    margin-bottom:10px;
+}
+
+body{
+    width:50%;
+    margin:auto;
+}
